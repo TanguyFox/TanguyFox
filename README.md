@@ -1,4 +1,3 @@
-[!Présentation et études]
 ### Bonjour ! 👋
 
 Je m'appelle Tanguy RENARD, j'ai 20ans et je suis actuellement en 3ème année de BUT Informatique au sein de l'IUT Nancy-Charlemagne 🏫 (54).
@@ -9,6 +8,7 @@ PLus précisément, je suis en option **Ingénierie Logicielle** destinée à fo
 
 Dans un cadre plus personnel, j'aime le basket-ball 🏀, les vidéogrammes 🎥, les jeux-vidéos 🎮 et les nouvelles technologies 👨‍💻.
 
+[!IMPORTANT]
 💼 Je travaille actuellement sur un projet de site web destiné à aider les étudiants dans leurs recherches de stage ou d'alternance.
     Ce travail est réalisé avec 3 autres amis à moi, chacun ayant des spécialités différentes, de près ou de loin avce l'informatique.
     L'un d'eux fait ses études à l'ICN Business School de Nancy.

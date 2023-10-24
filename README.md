@@ -21,6 +21,39 @@ Dans un cadre plus personnel, j'aime le basket-ball 🏀, les vidéogrammes 🎥
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanguyFox)     ![Les Stats GitHub de Tanguy](https://github-readme-stats.vercel.app/api?username=TanguyFox&hide=prs,issues&theme=transparent)
 
 
+```stl
+solid cube_corner
+  facet normal 0.0 -1.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 1.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+  facet normal 0.0 0.0 -1.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 1.0 0.0 0.0
+    endloop
+  endfacet
+  facet normal -1.0 0.0 0.0
+    outer loop
+      vertex 0.0 0.0 0.0
+      vertex 0.0 0.0 1.0
+      vertex 0.0 1.0 0.0
+    endloop
+  endfacet
+  facet normal 0.577 0.577 0.577
+    outer loop
+      vertex 1.0 0.0 0.0
+      vertex 0.0 1.0 0.0
+      vertex 0.0 0.0 1.0
+    endloop
+  endfacet
+endsolid
+```
+
 <!--
 **TanguyFox/TanguyFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

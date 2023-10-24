@@ -16,6 +16,10 @@ Dans un cadre plus personnel, j'aime le basket-ball 🏀, les vidéogrammes 🎥
 
 ✨ J'ai découvert, pendant mon premier stage en entreprise, le framework ASP.NET MVC de Microsoft que j'ai trouvé très intéressant et assez intuitif quand on prend le temps de s'y intéresser 
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanguyFox)]
+
+
 <!--
 **TanguyFox/TanguyFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

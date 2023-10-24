@@ -8,7 +8,7 @@ PLus précisément, je suis en option **Ingénierie Logicielle** destinée à fo
 
 Dans un cadre plus personnel, j'aime le basket-ball 🏀, les vidéogrammes 🎥, les jeux-vidéos 🎮 et les nouvelles technologies 👨‍💻.
 
-[IMPORTANT]
+![IMPORTANT]
 💼 Je travaille actuellement sur un projet de site web destiné à aider les étudiants dans leurs recherches de stage ou d'alternance.
     Ce travail est réalisé avec 3 autres amis à moi, chacun ayant des spécialités différentes, de près ou de loin avce l'informatique.
     L'un d'eux fait ses études à l'ICN Business School de Nancy.
@@ -19,40 +19,6 @@ Dans un cadre plus personnel, j'aime le basket-ball 🏀, les vidéogrammes 🎥
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TanguyFox)     ![Les Stats GitHub de Tanguy](https://github-readme-stats.vercel.app/api?username=TanguyFox&hide=prs,issues&theme=transparent)
-
-
-```stl
-solid cube_corner
-  facet normal 0.0 -1.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 1.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-  facet normal 0.0 0.0 -1.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 1.0 0.0 0.0
-    endloop
-  endfacet
-  facet normal -1.0 0.0 0.0
-    outer loop
-      vertex 0.0 0.0 0.0
-      vertex 0.0 0.0 1.0
-      vertex 0.0 1.0 0.0
-    endloop
-  endfacet
-  facet normal 0.577 0.577 0.577
-    outer loop
-      vertex 1.0 0.0 0.0
-      vertex 0.0 1.0 0.0
-      vertex 0.0 0.0 1.0
-    endloop
-  endfacet
-endsolid
-```
 
 <!--
 **TanguyFox/TanguyFox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
